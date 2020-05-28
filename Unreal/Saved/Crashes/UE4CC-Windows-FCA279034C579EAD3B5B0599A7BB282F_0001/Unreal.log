@@ -1,0 +1,1055 @@
+﻿Log file open, 05/19/20 12:51:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Unreal
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.385528
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.19-10.51.51:097][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.19-10.51.51:097][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.19-10.51.51:097][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Engine.ini]
+[2020.05.19-10.51.51:097][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.19-10.51.51:097][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Engine.ini]
+[2020.05.19-10.51.51:097][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Engine.ini]
+[2020.05.19-10.51.51:097][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.19-10.51.51:097][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.19-10.51.51:097][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.19-10.51.51:097][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.19-10.51.51:098][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.19-10.51.51:098][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.19-10.51.51:098][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.19-10.51.51:098][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.19-10.51.51:098][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.19-10.51.51:098][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.19-10.51.51:098][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.19-10.51.51:098][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.19-10.51.51:098][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.19-10.51.51:098][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.19-10.51.51:098][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Engine.ini]
+[2020.05.19-10.51.51:098][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.19-10.51.51:098][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.19-10.51.51:098][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.19-10.51.51:098][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.19-10.51.51:098][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.19-10.51.51:098][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.19-10.51.51:098][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.19-10.51.51:098][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.19-10.51.51:098][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.19-10.51.51:098][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.19-10.51.51:098][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.19-10.51.51:098][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.19-10.51.51:098][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.19-10.51.51:098][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Engine.ini]
+[2020.05.19-10.51.51:098][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Engine.ini]
+[2020.05.19-10.51.51:103][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-10.51.51:103][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.19-10.51.51:103][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.19-10.51.51:103][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-10.51.51:103][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.19-10.51.51:103][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-10.51.51:103][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.19-10.51.51:103][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.19-10.51.51:103][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.19-10.51.51:103][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.19-10.51.51:103][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.19-10.51.51:103][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.19-10.51.51:103][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.19-10.51.51:103][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.19-10.51.51:103][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.19-10.51.51:103][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.19-10.51.51:103][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.19-10.51.51:103][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.19-10.51.51:103][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.19-10.51.51:103][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.19-10.51.51:103][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.19-10.51.51:103][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.19-10.51.51:103][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.19-10.51.51:103][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.19-10.51.51:103][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-10.51.51:103][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.19-10.51.51:103][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.19-10.51.51:104][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.19-10.51.51:104][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.19-10.51.51:104][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.19-10.51.51:104][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.19-10.51.51:104][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.19-10.51.51:104][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.19-10.51.51:104][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.19-10.51.51:104][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.19-10.51.51:104][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.19-10.51.51:104][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.19-10.51.51:104][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.19-10.51.51:104][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.19-10.51.51:104][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.19-10.51.51:104][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.19-10.51.51:104][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.19-10.51.51:104][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.19-10.51.51:104][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.19-10.51.51:104][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.19-10.51.51:104][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.19-10.51.51:104][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.19-10.51.51:104][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.19-10.51.51:104][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.19-10.51.51:104][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.19-10.51.51:104][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.19-10.51.51:105][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.19-10.51.51:106][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-10.51.51:106][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.19-10.51.51:106][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.19-10.51.51:106][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-10.51.51:106][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.19-10.51.51:106][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.19-10.51.51:106][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.19-10.51.51:106][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.19-10.51.51:106][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.19-10.51.51:112][  0]LogHAL: Display: Platform has ~ 8 GB [8459489280 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.19-10.51.51:112][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.19-10.51.51:112][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.19-10.51.51:112][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.19-10.51.51:113][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.19-10.51.51:114][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.19-10.51.51:114][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.19-10.51.51:114][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Engine.ini]
+[2020.05.19-10.51.51:115][  0]LogInit: Computer: DESKTOP-LEQOL2H
+[2020.05.19-10.51.51:115][  0]LogInit: User: Usuario
+[2020.05.19-10.51.51:115][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.05.19-10.51.51:115][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.19-10.51.51:115][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.05.19-10.51.51:116][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.19-10.51.51:116][  0]LogMemory: Process Physical Memory: 104.99 MB used, 104.99 MB peak
+[2020.05.19-10.51.51:116][  0]LogMemory: Process Virtual Memory: 99.31 MB used, 99.31 MB peak
+[2020.05.19-10.51.51:116][  0]LogMemory: Physical Memory: 5576.95 MB used,  2490.65 MB free, 8067.60 MB total
+[2020.05.19-10.51.51:116][  0]LogMemory: Virtual Memory: 5117.17 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2020.05.19-10.51.51:122][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.19-10.51.51:258][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.05.19-10.51.51:259][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2020.05.19-10.51.51:259][  0]LogInit: Using OS detected locale (es-ES).
+[2020.05.19-10.51.51:686][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.19-10.51.51:723][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.19-10.51.51:723][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.19-10.51.52:213][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.19-10.51.52:213][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.19-10.51.52:213][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.19-10.51.52:213][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.19-10.51.52:369][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX130' (Feature Level 11_0)
+[2020.05.19-10.51.52:369][  0]LogD3D11RHI:       2020/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.19-10.51.52:401][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2020.05.19-10.51.52:401][  0]LogD3D11RHI:       128/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.05.19-10.51.52:411][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.19-10.51.52:411][  0]LogD3D11RHI:       0/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.19-10.51.52:411][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.19-10.51.52:454][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.19-10.51.52:454][  0]LogD3D11RHI:     GPU DeviceId: 0x174d (for the marketing name, search the web for "GPU Device Id")
+[2020.05.19-10.51.52:454][  0]LogWindows: EnumDisplayDevices:
+[2020.05.19-10.51.52:454][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2020.05.19-10.51.52:455][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.05.19-10.51.52:455][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.05.19-10.51.52:456][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.05.19-10.51.52:456][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX130
+[2020.05.19-10.51.52:456][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.05.19-10.51.52:456][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.05.19-10.51.52:456][  0]LogRHI: Texture pool is 1414 MB (70% of 2020 MB)
+[2020.05.19-10.51.52:503][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.05.19-10.51.52:504][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.19-10.51.52:532][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.19-10.51.53:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.19-10.51.53:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.19-10.51.53:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.19-10.51.53:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.05.19-10.51.53:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.19-10.51.53:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.05.19-10.51.53:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.05.19-10.51.53:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.19-10.51.53:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.05.19-10.51.53:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.19-10.51.53:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.19-10.51.53:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.05.19-10.51.53:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.19-10.51.53:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.19-10.51.53:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.19-10.51.53:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.19-10.51.53:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.19-10.51.53:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.19-10.51.53:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.19-10.51.53:366][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.19-10.51.53:366][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.19-10.51.53:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.19-10.51.53:384][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.19-10.51.53:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.19-10.51.53:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.19-10.51.53:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.19-10.51.53:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.19-10.51.53:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.19-10.51.53:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.19-10.51.53:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.19-10.51.53:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.19-10.51.53:533][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.19-10.51.53:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.19-10.51.53:555][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.19-10.51.53:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.19-10.51.53:567][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.19-10.51.53:574][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.19-10.51.53:646][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Intermediate/Shaders/WorkingDirectory/1340/).
+[2020.05.19-10.51.53:647][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Usuario/AppData/Local/Temp/UnrealShaderWorkingDir/40503037481D0FE712C16A96E247D422/'.
+[2020.05.19-10.51.53:649][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.19-10.51.53:649][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.19-10.51.53:649][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.19-10.51.55:336][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.19-10.51.55:761][  0]LogDerivedDataCache: Loaded boot cache 0.43s 78MB C:/Users/Usuario/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.19-10.51.55:761][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Usuario/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.19-10.51.55:761][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.19-10.51.55:761][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.19-10.51.55:761][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.19-10.51.55:761][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.19-10.51.55:776][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.19-10.51.55:777][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.19-10.51.55:777][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.19-10.51.55:778][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.19-10.51.55:778][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.19-10.51.55:778][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.19-10.51.55:820][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.19-10.51.55:826][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.19-10.51.55:827][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.19-10.51.55:981][  0]LogAssetRegistry: FAssetRegistry took 0.0042 seconds to start up
+[2020.05.19-10.51.56:716][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.19-10.51.57:073][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.19-10.51.57:073][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.19-10.51.57:073][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.19-10.51.57:073][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.19-10.51.57:074][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.19-10.51.57:131][  0]LogNetVersion: Unreal 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3342930737)
+[2020.05.19-10.51.59:910][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.042149 seconds
+[2020.05.19-10.51.59:918][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.05.19-10.51.59:918][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.05.19-10.51.59:918][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.19-10.52.00:727][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.19-10.52.00:731][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.19-10.52.00:832][  0]SourceControl: Source control is disabled
+[2020.05.19-10.52.00:833][  0]SourceControl: Source control is disabled
+[2020.05.19-10.52.00:841][  0]SourceControl: Source control is disabled
+[2020.05.19-10.52.00:845][  0]SourceControl: Source control is disabled
+[2020.05.19-10.52.00:847][  0]SourceControl: Source control is disabled
+[2020.05.19-10.52.01:084][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.19-10.52.01:107][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.19-10.52.01:107][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.19-10.52.01:333][  0]LogOcInput: OculusInput pre-init called
+[2020.05.19-10.52.01:366][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.05.19-10.52.01:366][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.05.19-10.52.01:564][  0]LogEngine: Initializing Engine...
+[2020.05.19-10.52.01:567][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.19-10.52.01:570][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.05.19-10.52.02:119][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.19-10.52.02:140][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.19-10.52.02:152][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.19-10.52.02:152][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.19-10.52.02:152][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.19-10.52.02:152][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.19-10.52.02:152][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.19-10.52.02:152][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.19-10.52.02:152][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.19-10.52.02:152][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.19-10.52.02:153][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.19-10.52.02:153][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.19-10.52.02:170][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.19-10.52.02:170][  0]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio(SST))
+[2020.05.19-10.52.02:170][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.19-10.52.02:170][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.19-10.52.02:170][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.19-10.52.02:170][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.19-10.52.02:170][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.19-10.52.02:170][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.19-10.52.02:170][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.19-10.52.02:638][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio(SST))
+[2020.05.19-10.52.02:644][  0]LogInit: FAudioDevice initialized.
+[2020.05.19-10.52.02:644][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.19-10.52.02:741][  0]LogDerivedDataCache: Saved boot cache 0.10s 78MB C:/Users/Usuario/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.19-10.52.02:742][  0]LogInit: Texture streaming: Enabled
+[2020.05.19-10.52.02:756][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.19-10.52.02:756][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.19-10.52.02:758][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.19-10.52.02:809][  0]LogInit: Transaction tracking system initialized
+[2020.05.19-10.52.02:843][  0]BlueprintLog: New page: Editor Load
+[2020.05.19-10.52.02:949][  0]LocalizationService: Localization service is disabled
+[2020.05.19-10.52.03:380][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Content/' took 0.01s
+[2020.05.19-10.52.03:380][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.19-10.52.03:380][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.19-10.52.04:839][  0]SourceControl: Source control is disabled
+[2020.05.19-10.52.05:066][  0]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.19-10.53.12:856][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2020.05.19-10.53.12:856][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.19-10.53.14:613][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.19-10.53.14:615][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.19-10.53.14:628][  0]LightingResults: New page: Lighting Build
+[2020.05.19-10.53.14:631][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-10.53.14:631][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-10.53.14:631][  0]MapCheck: New page: Map Check
+[2020.05.19-10.53.14:631][  0]LightingResults: New page: Lighting Build
+[2020.05.19-10.53.14:669][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.05.19-10.53.23:187][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.19-10.53.30:987][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.19-10.53.31:108][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.05.19-10.53.31:110][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.19-10.53.31:110][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,345ms to complete.
+[2020.05.19-10.53.31:110][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 16.495
+[2020.05.19-10.53.31:250][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-10.53.31:259][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-10.53.31:270][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-10.53.31:278][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-10.53.31:291][  0]LogCollectionManager: Loaded 0 collections in 0.002363 seconds
+[2020.05.19-10.53.31:310][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Collections/' took 0.00s
+[2020.05.19-10.53.31:310][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Content/Developers/Usuario/Collections/' took 0.00s
+[2020.05.19-10.53.31:310][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Content/Collections/' took 0.00s
+[2020.05.19-10.53.31:310][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 3015 classes and 717 folders.
+[2020.05.19-10.53.31:321][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.19-10.53.31:573][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.19-10.53.31:579][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.05.19-10.53.31:637][  0]LogSlate: Took 0.004726 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.19-10.53.31:647][  0]LogSlate: Took 0.002099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.19-10.53.31:843][  0]LogRenderer: Reallocating scene render targets to support 880x296 Format 10 NumSamples 1 (Frame:1).
+[2020.05.19-10.53.32:032][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.19-10.53.32:032][  0]LogLoad: (Engine Initialization) Total time: 106.51 seconds
+[2020.05.19-10.53.32:032][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.19-10.53.32:125][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.19-10.53.32:237][  0]LogSlate: Took 0.064757 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.19-10.53.32:748][  7]LogAssetRegistry: Asset discovery search completed in 96.7679 seconds
+[2020.05.19-10.53.32:754][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000017 seconds (updated 0 objects)
+[2020.05.19-10.53.36:398][201]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.19-10.53.36:438][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.05.19-10.53.39:748][201]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/ThirdPersonExampleMapF8BB0D0948DC9CEE08BB408E39D40892.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.19-10.53.40:222][201]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/ThirdPersonExampleMap_BuiltData642BA39041F1E0E75C06C3AA703D4ACB.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.05.19-10.53.40:240][201]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.19-10.53.40:240][201]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.19-10.53.40:240][201]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.05.19-10.53.48:051][564]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Key_BP.Key_BP
+[2020.05.19-10.53.48:454][564]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.05.19-10.53.49:572][564]LogSlate: Took 0.021224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.19-10.53.51:424][650]LogRenderer: Reallocating scene render targets to support 880x460 Format 10 NumSamples 1 (Frame:1).
+[2020.05.19-10.53.55:468][843]LogSlate: Window 'Key_BP' being destroyed
+[2020.05.19-10.53.55:473][843]LogSlate: Window 'Key_BP' being destroyed
+[2020.05.19-10.53.55:474][843]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-10.53.55:474][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-10.54.07:514][321]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.05.19-10.54.11:813][552]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Gate_BP.Gate_BP
+[2020.05.19-10.54.18:930][899]LogSlate: Took 0.001380 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.19-11.00.13:977][121]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Usuario\Desktop\Gate\gate_fbx.fbx)
+[2020.05.19-11.00.14:045][121]LogFbx: Loading FBX Scene from C:\Users\Usuario\Desktop\Gate\gate_fbx.fbx
+[2020.05.19-11.00.14:180][121]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.19-11.00.22:212][121]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.19-11.00.22:464][121]LogLinker: Failed to load '/Game/Gate/lightlower_diffuse': Can't find file.
+[2020.05.19-11.00.22:464][121]LogLinker: Failed to load '/Game/Gate/lightlower_diffuse': Can't find file.
+[2020.05.19-11.00.22:464][121]LogFbxMaterialImport: Warning: Unable to find Texture file G:/Shahid/Low Poly Game Models/New Interiors/Old Gate/textures/lightlower_diffuse.jpg
+[2020.05.19-11.00.22:464][121]LogLinker: Failed to load '/Game/Gate/lightlower_normal': Can't find file.
+[2020.05.19-11.00.22:465][121]LogLinker: Failed to load '/Game/Gate/lightlower_normal': Can't find file.
+[2020.05.19-11.00.22:465][121]LogFbxMaterialImport: Warning: Unable to find Texture file G:/Shahid/Low Poly Game Models/New Interiors/Old Gate/textures/lightlower_normal.jpg
+[2020.05.19-11.00.22:471][121]LogMaterial: Display: Missing cached shader map for material light_lower_texture, compiling. 
+[2020.05.19-11.00.22:541][121]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.05.19-11.00.22:542][121]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.05.19-11.00.22:542][121]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.05.19-11.00.22:542][121]LogFbx: Display: Triangulating static mesh Gate_Light:lightlower
+[2020.05.19-11.00.22:753][121]LogStaticMesh: Building static mesh gate_fbx_lightlower...
+[2020.05.19-11.00.22:792][121]LogStaticMesh: Built static mesh [0.04s] /Game/Gate/gate_fbx_lightlower.gate_fbx_lightlower
+[2020.05.19-11.00.22:828][121]LogLinker: Failed to load '/Game/Gate/lightupper_diffuse': Can't find file.
+[2020.05.19-11.00.22:828][121]LogLinker: Failed to load '/Game/Gate/lightupper_diffuse': Can't find file.
+[2020.05.19-11.00.22:829][121]LogFbxMaterialImport: Warning: Unable to find Texture file G:/Shahid/Low Poly Game Models/New Interiors/Old Gate/textures/lightupper_diffuse.jpg
+[2020.05.19-11.00.22:829][121]LogLinker: Failed to load '/Game/Gate/lightupper_normal': Can't find file.
+[2020.05.19-11.00.22:829][121]LogLinker: Failed to load '/Game/Gate/lightupper_normal': Can't find file.
+[2020.05.19-11.00.22:830][121]LogFbxMaterialImport: Warning: Unable to find Texture file G:/Shahid/Low Poly Game Models/New Interiors/Old Gate/textures/lightupper_normal.jpg
+[2020.05.19-11.00.22:842][121]LogMaterial: Display: Missing cached shader map for material light_upper_texture, compiling. 
+[2020.05.19-11.00.22:886][121]LogFbx: Display: Triangulating static mesh Gate_Light:lightupper
+[2020.05.19-11.00.23:319][121]LogStaticMesh: Building static mesh gate_fbx_lightupper...
+[2020.05.19-11.00.23:448][121]LogStaticMesh: Built static mesh [0.13s] /Game/Gate/gate_fbx_lightupper.gate_fbx_lightupper
+[2020.05.19-11.00.24:122][121]LogLinker: Failed to load '/Game/Gate/pillar_diffuse': Can't find file.
+[2020.05.19-11.00.24:123][121]LogLinker: Failed to load '/Game/Gate/pillar_diffuse': Can't find file.
+[2020.05.19-11.00.24:123][121]LogFbxMaterialImport: Warning: Unable to find Texture file G:/Shahid/Low Poly Game Models/New Interiors/Old Gate/textures/pillar_diffuse.jpg
+[2020.05.19-11.00.24:124][121]LogLinker: Failed to load '/Game/Gate/pillar_normalmap': Can't find file.
+[2020.05.19-11.00.24:124][121]LogLinker: Failed to load '/Game/Gate/pillar_normalmap': Can't find file.
+[2020.05.19-11.00.24:125][121]LogFbxMaterialImport: Warning: Unable to find Texture file G:/Shahid/Low Poly Game Models/New Interiors/Old Gate/textures/pillar_normalmap.jpg
+[2020.05.19-11.00.24:135][121]LogMaterial: Display: Missing cached shader map for material pillar_texture, compiling. 
+[2020.05.19-11.00.24:174][121]LogFbx: Display: Triangulating static mesh pillar_left
+[2020.05.19-11.00.24:476][121]LogStaticMesh: Building static mesh gate_fbx_pillar_left...
+[2020.05.19-11.00.24:535][121]LogStaticMesh: Built static mesh [0.06s] /Game/Gate/gate_fbx_pillar_left.gate_fbx_pillar_left
+[2020.05.19-11.00.24:590][121]LogLinker: Failed to load '/Game/Gate/gate_diffuse': Can't find file.
+[2020.05.19-11.00.24:591][121]LogLinker: Failed to load '/Game/Gate/gate_diffuse': Can't find file.
+[2020.05.19-11.00.24:591][121]LogFbxMaterialImport: Warning: Unable to find Texture file G:/Shahid/Low Poly Game Models/New Interiors/Old Gate/textures/gate_diffuse.jpg
+[2020.05.19-11.00.24:591][121]LogLinker: Failed to load '/Game/Gate/gate_normal': Can't find file.
+[2020.05.19-11.00.24:592][121]LogLinker: Failed to load '/Game/Gate/gate_normal': Can't find file.
+[2020.05.19-11.00.24:592][121]LogFbxMaterialImport: Warning: Unable to find Texture file G:/Shahid/Low Poly Game Models/New Interiors/Old Gate/textures/gate_normal.jpg
+[2020.05.19-11.00.24:601][121]LogMaterial: Display: Missing cached shader map for material gate_texture, compiling. 
+[2020.05.19-11.00.24:641][121]LogFbx: Display: Triangulating static mesh support_left
+[2020.05.19-11.00.24:829][121]LogStaticMesh: Building static mesh gate_fbx_support_left...
+[2020.05.19-11.00.24:833][121]LogStaticMesh: Built static mesh [0.00s] /Game/Gate/gate_fbx_support_left.gate_fbx_support_left
+[2020.05.19-11.00.24:849][121]LogFbx: Display: Triangulating static mesh support_right
+[2020.05.19-11.00.24:853][121]LogStaticMesh: Building static mesh gate_fbx_support_right...
+[2020.05.19-11.00.24:858][121]LogStaticMesh: Built static mesh [0.01s] /Game/Gate/gate_fbx_support_right.gate_fbx_support_right
+[2020.05.19-11.00.24:870][121]LogFbx: Display: Triangulating static mesh pillar_right
+[2020.05.19-11.00.25:156][121]LogStaticMesh: Building static mesh gate_fbx_pillar_right...
+[2020.05.19-11.00.25:233][121]LogStaticMesh: Built static mesh [0.08s] /Game/Gate/gate_fbx_pillar_right.gate_fbx_pillar_right
+[2020.05.19-11.00.25:289][121]LogFbx: Display: Triangulating static mesh lightlower
+[2020.05.19-11.00.25:445][121]LogStaticMesh: Building static mesh gate_fbx_lightlower_1...
+[2020.05.19-11.00.25:476][121]LogStaticMesh: Built static mesh [0.03s] /Game/Gate/gate_fbx_lightlower_1.gate_fbx_lightlower_1
+[2020.05.19-11.00.25:508][121]LogFbx: Display: Triangulating static mesh lightupper
+[2020.05.19-11.00.26:006][121]LogStaticMesh: Building static mesh gate_fbx_lightupper_1...
+[2020.05.19-11.00.26:123][121]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 45
+[2020.05.19-11.00.26:123][121]LogStaticMesh: Built static mesh [0.12s] /Game/Gate/gate_fbx_lightupper_1.gate_fbx_lightupper_1
+[2020.05.19-11.00.26:173][121]LogFbx: Display: Triangulating static mesh gate_left
+[2020.05.19-11.00.26:176][121]LogFbx: Display: Triangulating static mesh gate_right
+[2020.05.19-11.00.26:288][121]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.19-11.00.26:288][121]FBXImport: Warning: Unable to triangulate mesh '' 
+[2020.05.19-11.00.26:288][121]FBXImport: Warning: Unable to triangulate mesh '' 
+[2020.05.19-11.00.27:275][121]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.05.19-11.00.27:275][121]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.05.19-11.00.29:793][245]LogSlate: Window 'Message Log' being destroyed
+[2020.05.19-11.00.29:798][245]LogSlate: Window 'Message Log' being destroyed
+[2020.05.19-11.00.32:239][319]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2020.05.19-11.00.33:926][362]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2020.05.19-11.00.41:840][565]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2020.05.19-11.00.43:243][598]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2020.05.19-11.00.50:802][874]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.05.19-11.00.53:168][945]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.05.19-11.00.54:082][968]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.05.19-11.01.00:841][195]LogUObjectHash: Compacting FUObjectHashTables data took   7.90ms
+[2020.05.19-11.01.10:145][195]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.19-11.01.10:473][195]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.05.19-11.01.16:106][436]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Usuario\Desktop\Gate\gate_fbx.fbx)
+[2020.05.19-11.01.16:122][436]LogFbx: Loading FBX Scene from C:\Users\Usuario\Desktop\Gate\gate_fbx.fbx
+[2020.05.19-11.01.16:174][436]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.19-11.01.26:029][436]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.19-11.01.26:061][436]LogFbxMaterialImport: Warning: Unable to find Texture file G:/Shahid/Low Poly Game Models/New Interiors/Old Gate/textures/lightlower_diffuse.jpg
+[2020.05.19-11.01.26:062][436]LogFbxMaterialImport: Warning: Unable to find Texture file G:/Shahid/Low Poly Game Models/New Interiors/Old Gate/textures/lightlower_normal.jpg
+[2020.05.19-11.01.26:073][436]LogMaterial: Display: Missing cached shader map for material light_lower_texture, compiling. 
+[2020.05.19-11.01.26:107][436]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.05.19-11.01.26:107][436]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.05.19-11.01.26:107][436]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.05.19-11.01.26:107][436]LogFbx: Display: Triangulating static mesh Gate_Light:lightlower
+[2020.05.19-11.01.26:339][436]LogStaticMesh: Building static mesh gate_fbx_lightlower...
+[2020.05.19-11.01.26:375][436]LogStaticMesh: Built static mesh [0.04s] /Game/Gate/gate_fbx_lightlower.gate_fbx_lightlower
+[2020.05.19-11.01.26:403][436]LogFbxMaterialImport: Warning: Unable to find Texture file G:/Shahid/Low Poly Game Models/New Interiors/Old Gate/textures/lightupper_diffuse.jpg
+[2020.05.19-11.01.26:403][436]LogFbxMaterialImport: Warning: Unable to find Texture file G:/Shahid/Low Poly Game Models/New Interiors/Old Gate/textures/lightupper_normal.jpg
+[2020.05.19-11.01.26:426][436]LogMaterial: Display: Missing cached shader map for material light_upper_texture, compiling. 
+[2020.05.19-11.01.26:462][436]LogFbx: Display: Triangulating static mesh Gate_Light:lightupper
+[2020.05.19-11.01.26:864][436]LogStaticMesh: Building static mesh gate_fbx_lightupper...
+[2020.05.19-11.01.26:990][436]LogStaticMesh: Built static mesh [0.13s] /Game/Gate/gate_fbx_lightupper.gate_fbx_lightupper
+[2020.05.19-11.01.27:032][436]LogFbxMaterialImport: Warning: Unable to find Texture file G:/Shahid/Low Poly Game Models/New Interiors/Old Gate/textures/pillar_diffuse.jpg
+[2020.05.19-11.01.27:033][436]LogFbxMaterialImport: Warning: Unable to find Texture file G:/Shahid/Low Poly Game Models/New Interiors/Old Gate/textures/pillar_normalmap.jpg
+[2020.05.19-11.01.27:041][436]LogMaterial: Display: Missing cached shader map for material pillar_texture, compiling. 
+[2020.05.19-11.01.27:082][436]LogFbx: Display: Triangulating static mesh pillar_left
+[2020.05.19-11.01.27:370][436]LogStaticMesh: Building static mesh gate_fbx_pillar_left...
+[2020.05.19-11.01.27:437][436]LogStaticMesh: Built static mesh [0.07s] /Game/Gate/gate_fbx_pillar_left.gate_fbx_pillar_left
+[2020.05.19-11.01.27:472][436]LogFbxMaterialImport: Warning: Unable to find Texture file G:/Shahid/Low Poly Game Models/New Interiors/Old Gate/textures/gate_diffuse.jpg
+[2020.05.19-11.01.27:472][436]LogFbxMaterialImport: Warning: Unable to find Texture file G:/Shahid/Low Poly Game Models/New Interiors/Old Gate/textures/gate_normal.jpg
+[2020.05.19-11.01.27:480][436]LogMaterial: Display: Missing cached shader map for material gate_texture, compiling. 
+[2020.05.19-11.01.27:533][436]LogFbx: Display: Triangulating static mesh support_left
+[2020.05.19-11.01.27:748][436]LogStaticMesh: Building static mesh gate_fbx_support_left...
+[2020.05.19-11.01.27:752][436]LogStaticMesh: Built static mesh [0.00s] /Game/Gate/gate_fbx_support_left.gate_fbx_support_left
+[2020.05.19-11.01.27:768][436]LogFbx: Display: Triangulating static mesh support_right
+[2020.05.19-11.01.27:771][436]LogStaticMesh: Building static mesh gate_fbx_support_right...
+[2020.05.19-11.01.27:775][436]LogStaticMesh: Built static mesh [0.00s] /Game/Gate/gate_fbx_support_right.gate_fbx_support_right
+[2020.05.19-11.01.27:785][436]LogFbx: Display: Triangulating static mesh pillar_right
+[2020.05.19-11.01.28:137][436]LogStaticMesh: Building static mesh gate_fbx_pillar_right...
+[2020.05.19-11.01.28:222][436]LogStaticMesh: Built static mesh [0.08s] /Game/Gate/gate_fbx_pillar_right.gate_fbx_pillar_right
+[2020.05.19-11.01.28:264][436]LogFbx: Display: Triangulating static mesh lightlower
+[2020.05.19-11.01.28:403][436]LogStaticMesh: Building static mesh gate_fbx_lightlower_1...
+[2020.05.19-11.01.28:450][436]LogStaticMesh: Built static mesh [0.05s] /Game/Gate/gate_fbx_lightlower_1.gate_fbx_lightlower_1
+[2020.05.19-11.01.28:483][436]LogFbx: Display: Triangulating static mesh lightupper
+[2020.05.19-11.01.28:974][436]LogStaticMesh: Building static mesh gate_fbx_lightupper_1...
+[2020.05.19-11.01.29:127][436]LogStaticMesh: Built static mesh [0.15s] /Game/Gate/gate_fbx_lightupper_1.gate_fbx_lightupper_1
+[2020.05.19-11.01.29:177][436]LogFbx: Display: Triangulating static mesh gate_left
+[2020.05.19-11.01.29:178][436]LogFbx: Display: Triangulating static mesh gate_right
+[2020.05.19-11.01.29:223][436]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 45
+[2020.05.19-11.01.29:274][436]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.19-11.01.29:274][436]FBXImport: Warning: Unable to triangulate mesh '' 
+[2020.05.19-11.01.29:274][436]FBXImport: Warning: Unable to triangulate mesh '' 
+[2020.05.19-11.01.29:355][436]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.05.19-11.01.29:355][436]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.05.19-11.01.32:615][598]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2020.05.19-11.01.34:733][719]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2020.05.19-11.01.48:320][997]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2020.05.19-11.01.48:491][  1]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2020.05.19-11.01.52:251][ 56]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.05.19-11.01.56:130][ 86]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.05.19-11.01.56:299][ 88]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.05.19-11.03.37:294][575]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.05.19-11.03.37:299][575]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.057
+[2020.05.19-11.03.37:299][575]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Gate_BP] ([1] browsable assets)...
+[2020.05.19-11.03.37:322][575]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Gate_BP.Gate_BP]
+[2020.05.19-11.03.37:322][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Gate_BP]
+[2020.05.19-11.03.37:343][575]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Gate_BP_Auto1F3FB6F63447D9063292D6BA53E4D681D.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Gate_BP_Auto1.uasset'
+[2020.05.19-11.03.37:345][575]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gate/gate_fbx_lightupper_1] ([1] browsable assets)...
+[2020.05.19-11.03.37:363][575]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Gate/gate_fbx_lightupper_1.gate_fbx_lightupper_1]
+[2020.05.19-11.03.37:363][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gate/gate_fbx_lightupper_1]
+[2020.05.19-11.03.37:411][575]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/gate_fbx_lightupper_1_Auto12A32E2004F3E732BB61E95865CB16295.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Autosaves/Game/Gate/gate_fbx_lightupper_1_Auto1.uasset'
+[2020.05.19-11.03.37:412][575]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gate/gate_fbx_lightlower] ([1] browsable assets)...
+[2020.05.19-11.03.37:431][575]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Gate/gate_fbx_lightlower.gate_fbx_lightlower]
+[2020.05.19-11.03.37:431][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gate/gate_fbx_lightlower]
+[2020.05.19-11.03.37:460][575]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/gate_fbx_lightlower_Auto1DE7AA945471F27B1AD1F3BB2F48E989F.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Autosaves/Game/Gate/gate_fbx_lightlower_Auto1.uasset'
+[2020.05.19-11.03.37:461][575]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gate/light_lower_texture] ([1] browsable assets)...
+[2020.05.19-11.03.37:480][575]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Gate/light_lower_texture.light_lower_texture]
+[2020.05.19-11.03.37:480][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gate/light_lower_texture]
+[2020.05.19-11.03.37:492][575]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/light_lower_texture_Auto1199B46B7444F2BCB35DA52A19D058AD5.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Autosaves/Game/Gate/light_lower_texture_Auto1.uasset'
+[2020.05.19-11.03.37:493][575]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gate/gate_fbx_lightlower_1] ([1] browsable assets)...
+[2020.05.19-11.03.37:510][575]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Gate/gate_fbx_lightlower_1.gate_fbx_lightlower_1]
+[2020.05.19-11.03.37:510][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gate/gate_fbx_lightlower_1]
+[2020.05.19-11.03.37:530][575]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/gate_fbx_lightlower_1_Auto1CC375E0C403B522A8B61CC9629917A52.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Autosaves/Game/Gate/gate_fbx_lightlower_1_Auto1.uasset'
+[2020.05.19-11.03.37:533][575]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gate/gate_fbx_pillar_right] ([1] browsable assets)...
+[2020.05.19-11.03.37:552][575]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Gate/gate_fbx_pillar_right.gate_fbx_pillar_right]
+[2020.05.19-11.03.37:552][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gate/gate_fbx_pillar_right]
+[2020.05.19-11.03.37:592][575]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/gate_fbx_pillar_right_Auto1C821CE3145BE7776470398BA0AD7F4D2.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Autosaves/Game/Gate/gate_fbx_pillar_right_Auto1.uasset'
+[2020.05.19-11.03.37:594][575]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gate/gate_fbx_lightupper] ([1] browsable assets)...
+[2020.05.19-11.03.37:612][575]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Gate/gate_fbx_lightupper.gate_fbx_lightupper]
+[2020.05.19-11.03.37:612][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gate/gate_fbx_lightupper]
+[2020.05.19-11.03.37:662][575]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/gate_fbx_lightupper_Auto19B216B134B80EACA560382A977CF1B45.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Autosaves/Game/Gate/gate_fbx_lightupper_Auto1.uasset'
+[2020.05.19-11.03.37:664][575]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gate/light_upper_texture] ([1] browsable assets)...
+[2020.05.19-11.03.37:681][575]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Gate/light_upper_texture.light_upper_texture]
+[2020.05.19-11.03.37:681][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gate/light_upper_texture]
+[2020.05.19-11.03.37:694][575]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/light_upper_texture_Auto1BEA03D5644F6A8D50D10099D05149F37.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Autosaves/Game/Gate/light_upper_texture_Auto1.uasset'
+[2020.05.19-11.03.37:695][575]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gate/gate_fbx_support_right] ([1] browsable assets)...
+[2020.05.19-11.03.37:714][575]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Gate/gate_fbx_support_right.gate_fbx_support_right]
+[2020.05.19-11.03.37:714][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gate/gate_fbx_support_right]
+[2020.05.19-11.03.37:768][575]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/gate_fbx_support_right_Auto14CC23E65418B5638CACB229879526E5A.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Autosaves/Game/Gate/gate_fbx_support_right_Auto1.uasset'
+[2020.05.19-11.03.37:773][575]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gate/gate_texture] ([1] browsable assets)...
+[2020.05.19-11.03.37:814][575]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Gate/gate_texture.gate_texture]
+[2020.05.19-11.03.37:814][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gate/gate_texture]
+[2020.05.19-11.03.37:838][575]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/gate_texture_Auto1AA767C5049F46D01782FEDBC371DC485.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Autosaves/Game/Gate/gate_texture_Auto1.uasset'
+[2020.05.19-11.03.37:839][575]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gate/gate_fbx_pillar_left] ([1] browsable assets)...
+[2020.05.19-11.03.37:858][575]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Gate/gate_fbx_pillar_left.gate_fbx_pillar_left]
+[2020.05.19-11.03.37:858][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gate/gate_fbx_pillar_left]
+[2020.05.19-11.03.37:893][575]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/gate_fbx_pillar_left_Auto136D6A1394652DC64BC3019868D85717E.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Autosaves/Game/Gate/gate_fbx_pillar_left_Auto1.uasset'
+[2020.05.19-11.03.37:895][575]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gate/pillar_texture] ([1] browsable assets)...
+[2020.05.19-11.03.37:913][575]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Gate/pillar_texture.pillar_texture]
+[2020.05.19-11.03.37:913][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gate/pillar_texture]
+[2020.05.19-11.03.37:926][575]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/pillar_texture_Auto1D4D50C5B4012C185280D46BB848DD3F2.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Autosaves/Game/Gate/pillar_texture_Auto1.uasset'
+[2020.05.19-11.03.37:927][575]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Gate/gate_fbx_support_left] ([1] browsable assets)...
+[2020.05.19-11.03.37:945][575]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Gate/gate_fbx_support_left.gate_fbx_support_left]
+[2020.05.19-11.03.37:945][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gate/gate_fbx_support_left]
+[2020.05.19-11.03.37:958][575]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/gate_fbx_support_left_Auto1CE66378E4DF902CAD8A57DAE5EDA0DD8.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Autosaves/Game/Gate/gate_fbx_support_left_Auto1.uasset'
+[2020.05.19-11.03.37:959][575]LogFileHelpers: Auto-saving content packages took 0.660
+[2020.05.19-11.05.48:353][ 11]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Usuario/Desktop/Gate/gate_mesh_01.fbx)
+[2020.05.19-11.05.48:377][ 11]LogFbx: Loading FBX Scene from ../../../../../../Users/Usuario/Desktop/Gate/gate_mesh_01.fbx
+[2020.05.19-11.05.48:438][ 11]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.19-11.05.51:846][ 11]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.19-11.05.51:886][ 11]LogMaterial: Display: Missing cached shader map for material Default_Material, compiling. 
+[2020.05.19-11.05.52:296][ 11]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.05.19-11.05.52:296][ 11]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.05.19-11.05.52:296][ 11]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.05.19-11.05.52:333][ 11]LogStaticMesh: Building static mesh gate_mesh_01_gate_left...
+[2020.05.19-11.05.52:994][ 11]LogStaticMesh: Built static mesh [0.69s] /Game/Gate/gate_mesh_01_gate_left.gate_mesh_01_gate_left
+[2020.05.19-11.05.53:571][ 11]LogStaticMesh: Building static mesh gate_mesh_01_gate_right...
+[2020.05.19-11.05.54:239][ 11]LogStaticMesh: Built static mesh [0.67s] /Game/Gate/gate_mesh_01_gate_right.gate_mesh_01_gate_right
+[2020.05.19-11.05.54:602][ 11]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.19-11.05.56:532][ 94]LogSlate: Window 'Message Log' being destroyed
+[2020.05.19-11.05.56:539][ 94]LogSlate: Window 'Message Log' being destroyed
+[2020.05.19-11.06.11:517][587]LogRenderer: Reallocating scene render targets to support 888x460 Format 10 NumSamples 1 (Frame:11162).
+[2020.05.19-11.06.11:567][588]LogRenderer: Reallocating scene render targets to support 904x460 Format 10 NumSamples 1 (Frame:11164).
+[2020.05.19-11.06.11:652][589]LogRenderer: Reallocating scene render targets to support 936x460 Format 10 NumSamples 1 (Frame:11166).
+[2020.05.19-11.06.11:700][590]LogRenderer: Reallocating scene render targets to support 956x460 Format 10 NumSamples 1 (Frame:11168).
+[2020.05.19-11.06.15:555][696]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Gate/gate_mesh_01_gate_left.gate_mesh_01_gate_left
+[2020.05.19-11.06.16:670][697]LogRenderer: Reallocating scene render targets to support 960x608 Format 10 NumSamples 1 (Frame:1).
+[2020.05.19-11.06.37:607][337]LogSlate: Window 'gate_mesh_01_gate_left' being destroyed
+[2020.05.19-11.06.37:613][337]LogSlate: Window 'gate_mesh_01_gate_left' being destroyed
+[2020.05.19-11.06.37:641][337]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-11.06.37:641][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-11.06.37:756][337]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-11.06.37:756][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-11.06.47:369][589]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Gate/gate_mesh_01_gate_left.gate_mesh_01_gate_left
+[2020.05.19-11.06.49:680][654]LogSlate: Window 'gate_mesh_01_gate_left' being destroyed
+[2020.05.19-11.06.49:688][654]LogSlate: Window 'gate_mesh_01_gate_left' being destroyed
+[2020.05.19-11.06.49:690][654]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-11.06.49:690][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-11.06.50:904][691]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Gate/gate_mesh_01_gate_right.gate_mesh_01_gate_right
+[2020.05.19-11.06.53:638][768]LogSlate: Window 'gate_mesh_01_gate_right' being destroyed
+[2020.05.19-11.06.53:645][768]LogSlate: Window 'gate_mesh_01_gate_right' being destroyed
+[2020.05.19-11.06.53:648][768]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-11.06.53:648][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-11.06.59:243][921]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Gate/gate_texture.gate_texture
+[2020.05.19-11.06.59:259][921]LogMaterial: Display: Missing cached shader map for material gate_texture, compiling. 
+[2020.05.19-11.06.59:509][921]LogMaterial: Display: Missing cached shader map for material gate_texture, compiling. 
+[2020.05.19-11.06.59:531][921]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.05.19-11.06.59:531][921]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.05.19-11.06.59:532][921]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.05.19-11.06.59:542][921]LogMaterial: Display: Missing cached shader map for material gate_texture, compiling. 
+[2020.05.19-11.06.59:599][921]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.19-11.07.03:011][ 47]LogMaterial: Display: Missing cached shader map for material gate_texture, compiling. 
+[2020.05.19-11.07.03:791][ 80]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.05.19-11.07.08:086][256]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2020.05.19-11.07.08:194][258]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.05.19-11.07.08:641][266]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.05.19-11.07.09:223][278]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.05.19-11.07.10:316][320]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.05.19-11.07.10:911][339]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.05.19-11.07.13:277][417]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.05.19-11.07.13:523][430]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.05.19-11.07.14:891][491]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.05.19-11.07.15:153][503]LogMaterial: Display: Missing cached shader map for material gate_texture, compiling. 
+[2020.05.19-11.07.15:193][503]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.05.19-11.07.15:228][503]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.05.19-11.07.15:277][503]LogMaterial: Display: Missing cached shader map for material gate_texture, compiling. 
+[2020.05.19-11.07.15:325][503]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.05.19-11.07.15:367][503]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.05.19-11.07.15:399][503]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.05.19-11.07.17:001][557]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.05.19-11.07.17:069][560]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.05.19-11.07.17:435][577]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.05.19-11.07.18:907][649]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2020.05.19-11.07.20:621][728]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.05.19-11.07.20:928][743]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2020.05.19-11.07.22:538][820]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.05.19-11.07.23:186][826]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2020.05.19-11.07.23:188][826]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.05.19-11.07.23:544][842]LogMaterial: Display: Missing cached shader map for material gate_texture, compiling. 
+[2020.05.19-11.07.23:595][842]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.05.19-11.07.24:016][851]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.05.19-11.07.24:830][887]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.05.19-11.07.24:956][894]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.05.19-11.07.25:328][911]LogMaterial: Display: Missing cached shader map for material gate_texture, compiling. 
+[2020.05.19-11.07.25:373][911]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.05.19-11.07.26:329][944]LogMaterialEditor: Saving and Compiling material gate_texture
+[2020.05.19-11.07.28:054][944]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.05.19-11.07.28:054][944]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2020.05.19-11.07.28:054][944]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.05.19-11.07.28:054][944]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2020.05.19-11.07.28:054][944]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.05.19-11.07.28:054][944]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.05.19-11.07.28:103][944]LogMaterial: Display: Missing cached shader map for material gate_texture, compiling. 
+[2020.05.19-11.07.28:300][944]LogMaterial: Display: Missing cached shader map for material gate_texture, compiling. 
+[2020.05.19-11.07.28:624][944]LogUObjectHash: Compacting FUObjectHashTables data took   9.94ms
+[2020.05.19-11.07.28:695][944]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2020.05.19-11.07.28:695][944]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.19-11.07.32:234][944]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2020.05.19-11.07.32:234][944]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2020.05.19-11.07.32:234][944]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2020.05.19-11.07.32:234][944]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2020.05.19-11.07.32:234][944]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2020.05.19-11.07.32:234][944]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2020.05.19-11.07.32:234][944]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2020.05.19-11.07.32:234][944]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2020.05.19-11.07.32:234][944]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2020.05.19-11.07.32:234][944]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2020.05.19-11.07.32:234][944]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2020.05.19-11.07.32:234][944]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2020.05.19-11.07.32:234][944]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.05.19-11.07.32:234][944]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2020.05.19-11.07.32:234][944]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.05.19-11.07.32:234][944]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.05.19-11.07.32:234][944]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.05.19-11.07.32:249][944]TextureStreamingBuild: Display: Compiling optional shaders took 3.617 seconds.
+[2020.05.19-11.07.32:374][944]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2020.05.19-11.07.35:084][944]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.05.19-11.07.35:084][944]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.05.19-11.07.35:256][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gate/gate_texture" FILE="../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Content/Gate/gate_texture.uasset" SILENT=true
+[2020.05.19-11.07.35:321][944]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/gate_texture335C0DBB4830198C898CABB758442272.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Content/Gate/gate_texture.uasset'
+[2020.05.19-11.07.35:367][944]AssetCheck: New page: Asset Save: gate_texture
+[2020.05.19-11.07.35:367][944]LogContentValidation: Display: Validating Material /Game/Gate/gate_texture.gate_texture
+[2020.05.19-11.07.35:379][944]MaterialEditorStats: Base pass shader: 126 instructions
+[2020.05.19-11.07.35:379][944]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2020.05.19-11.07.35:379][944]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.05.19-11.07.35:379][944]MaterialEditorStats: Texture samplers: 5/16
+[2020.05.19-11.07.35:379][944]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.05.19-11.07.35:379][944]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.19-11.07.37:720][ 36]LogHttp: Warning: 000001FC116160C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC6B812A2-4FB4-7E59-9D41-138E336BCB02%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=8c8bccf84f7fa5dc38e5d98ea2eeb17d%7Ca70faa86ab274da2a5f76a95093d81c0%7C0a95185a-8e40-4542-8f44-f374ac1058aa&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.05.19-11.07.37:720][ 36]LogHttp: Warning: 000001FC116160C0: request failed, libcurl error: 0 (No error)
+[2020.05.19-11.07.37:720][ 36]LogHttp: Warning: 000001FC116160C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1fbf027ff70 [can pipeline])
+[2020.05.19-11.07.37:720][ 36]LogHttp: Warning: 000001FC116160C0: libcurl info message cache 1 (Re-using existing connection! (#4) with host datarouter.ol.epicgames.com)
+[2020.05.19-11.07.37:720][ 36]LogHttp: Warning: 000001FC116160C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.5.203.137) port 443 (#4))
+[2020.05.19-11.07.37:720][ 36]LogHttp: Warning: 000001FC116160C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.05.19-11.07.37:720][ 36]LogHttp: Warning: 000001FC116160C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.05.19-11.07.37:720][ 36]LogHttp: Warning: 000001FC116160C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.05.19-11.07.37:720][ 36]LogHttp: Warning: 000001FC116160C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.05.19-11.07.37:720][ 36]LogHttp: Warning: 000001FC116160C0: libcurl info message cache 7 (Closing connection 4)
+[2020.05.19-11.07.37:720][ 36]LogHttp: Warning: 000001FC116160C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.05.19-11.07.37:720][ 36]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC6B812A2-4FB4-7E59-9D41-138E336BCB02%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=8c8bccf84f7fa5dc38e5d98ea2eeb17d%7Ca70faa86ab274da2a5f76a95093d81c0%7C0a95185a-8e40-4542-8f44-f374ac1058aa&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.19-11.07.43:877][243]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Gate/gate_mesh_01_gate_right.gate_mesh_01_gate_right
+[2020.05.19-11.08.05:477][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gate/gate_mesh_01_gate_right" FILE="../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Content/Gate/gate_mesh_01_gate_right.uasset" SILENT=true
+[2020.05.19-11.08.05:828][982]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/gate_mesh_01_gate_right39B38C07442F1C5630A19CB54DE58C91.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Content/Gate/gate_mesh_01_gate_right.uasset'
+[2020.05.19-11.08.05:856][982]AssetCheck: New page: Asset Save: gate_mesh_01_gate_right
+[2020.05.19-11.08.05:856][982]LogContentValidation: Display: Validating StaticMesh /Game/Gate/gate_mesh_01_gate_right.gate_mesh_01_gate_right
+[2020.05.19-11.08.06:914][ 19]LogSlate: Window 'gate_mesh_01_gate_right' being destroyed
+[2020.05.19-11.08.06:919][ 19]LogSlate: Window 'gate_mesh_01_gate_right' being destroyed
+[2020.05.19-11.08.06:976][ 19]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-11.08.06:976][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-11.08.07:018][ 19]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-11.08.07:018][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-11.08.08:107][ 45]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Gate/gate_mesh_01_gate_left.gate_mesh_01_gate_left
+[2020.05.19-11.08.14:652][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gate/gate_mesh_01_gate_left" FILE="../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Content/Gate/gate_mesh_01_gate_left.uasset" SILENT=true
+[2020.05.19-11.08.14:920][218]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/gate_mesh_01_gate_leftDEB4A65340E94415875C1790ECBDD068.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Content/Gate/gate_mesh_01_gate_left.uasset'
+[2020.05.19-11.08.14:942][218]AssetCheck: New page: Asset Save: gate_mesh_01_gate_left
+[2020.05.19-11.08.14:942][218]LogContentValidation: Display: Validating StaticMesh /Game/Gate/gate_mesh_01_gate_left.gate_mesh_01_gate_left
+[2020.05.19-11.08.15:476][237]LogSlate: Window 'gate_mesh_01_gate_left' being destroyed
+[2020.05.19-11.08.15:481][237]LogSlate: Window 'gate_mesh_01_gate_left' being destroyed
+[2020.05.19-11.08.15:498][237]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-11.08.15:499][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-11.08.30:883][631]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Gate_BP.Gate_BP
+[2020.05.19-11.08.54:280][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gate/Materials/gate_texture" FILE="../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Content/Gate/Materials/gate_texture.uasset" SILENT=true
+[2020.05.19-11.08.54:297][559]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/gate_texture3610C4F343B3609A7B791F812084C4F1.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Content/Gate/Materials/gate_texture.uasset'
+[2020.05.19-11.08.54:624][559]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.05.19-11.08.54:680][559]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.05.19-11.08.54:718][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.05.19-11.08.54:787][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gate/gate_mesh_01_gate_right" FILE="../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Content/Gate/gate_mesh_01_gate_right.uasset" SILENT=true
+[2020.05.19-11.08.55:039][559]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/gate_mesh_01_gate_right2671635F41174542B02012AB5A0E9694.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Content/Gate/gate_mesh_01_gate_right.uasset'
+[2020.05.19-11.08.55:041][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gate/gate_mesh_01_gate_left" FILE="../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Content/Gate/gate_mesh_01_gate_left.uasset" SILENT=true
+[2020.05.19-11.08.55:297][559]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/gate_mesh_01_gate_leftD03B2CCC449488CB990E75B0C69BF775.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Content/Gate/gate_mesh_01_gate_left.uasset'
+[2020.05.19-11.08.55:823][559]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.19-11.08.55:823][559]LogContentValidation: Display: Validating Material /Game/Gate/Materials/gate_texture.gate_texture
+[2020.05.19-11.08.55:824][559]LogContentValidation: Display: Validating StaticMesh /Game/Gate/gate_mesh_01_gate_right.gate_mesh_01_gate_right
+[2020.05.19-11.08.55:824][559]LogContentValidation: Display: Validating StaticMesh /Game/Gate/gate_mesh_01_gate_left.gate_mesh_01_gate_left
+[2020.05.19-11.09.00:511][765]LogMetaData: Removing '/Game/Gate/MeshPArts/gate_mesh_01_gate_right.gate_mesh_01_gate_right' ref from Metadata '/Game/Gate/gate_mesh_01_gate_right.PackageMetaData'
+[2020.05.19-11.09.00:521][765]LogMetaData: Removing '/Game/Gate/MeshPArts/gate_mesh_01_gate_left.gate_mesh_01_gate_left' ref from Metadata '/Game/Gate/gate_mesh_01_gate_left.PackageMetaData'
+[2020.05.19-11.09.00:849][765]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/gate_mesh_01_gate_rightF35C52024F08D12C5F240EA5DBBB1FF7.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Content/Gate/MeshPArts/gate_mesh_01_gate_right.uasset'
+[2020.05.19-11.09.01:180][765]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/gate_mesh_01_gate_left2EC59034448841B756967D86ED6F3097.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal_Trabajo_FInal/Unreal/Content/Gate/MeshPArts/gate_mesh_01_gate_left.uasset'
+[2020.05.19-11.09.02:289][765]LogUObjectHash: Compacting FUObjectHashTables data took   9.41ms
+[2020.05.19-11.09.02:329][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.05.19-11.09.02:380][765]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.05.19-11.09.02:417][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.05.19-11.09.02:634][765]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.19-11.09.02:634][765]LogContentValidation: Display: Validating StaticMesh /Game/Gate/MeshPArts/gate_mesh_01_gate_right.gate_mesh_01_gate_right
+[2020.05.19-11.09.02:634][765]LogContentValidation: Display: Validating StaticMesh /Game/Gate/MeshPArts/gate_mesh_01_gate_left.gate_mesh_01_gate_left
+[2020.05.19-11.09.05:557][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.05.19-11.09.12:369][838]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.19-11.09.12:649][838]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.05.19-11.09.24:000][334]LogUObjectGlobals: Warning: Attempted to FindCachedThumbnailInPackage named 'None' - PackageName: None InPackageFileName: None
+[2020.05.19-11.09.24:000][334]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.05.19-11.09.24:000][334]LogUObjectGlobals: Warning: Attempted to FindCachedThumbnailInPackage named 'None' - PackageName: None InPackageFileName: None
+[2020.05.19-11.09.24:000][334]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.05.19-11.09.24:433][346]LogUObjectGlobals: Warning: Attempted to FindCachedThumbnailInPackage named 'None' - PackageName: None InPackageFileName: None
+[2020.05.19-11.09.24:433][346]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.05.19-11.09.24:493][349]LogUObjectGlobals: Warning: Attempted to FindCachedThumbnailInPackage named 'None' - PackageName: None InPackageFileName: None
+[2020.05.19-11.09.24:493][349]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.05.19-11.09.24:493][349]LogUObjectGlobals: Warning: Attempted to FindCachedThumbnailInPackage named 'None' - PackageName: None InPackageFileName: None
+[2020.05.19-11.09.24:494][349]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.05.19-11.09.29:367][526]LogUObjectGlobals: Warning: Attempted to FindCachedThumbnailInPackage named 'None' - PackageName: None InPackageFileName: None
+[2020.05.19-11.09.29:367][526]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.05.19-11.09.29:367][526]LogUObjectGlobals: Warning: Attempted to FindCachedThumbnailInPackage named 'None' - PackageName: None InPackageFileName: None
+[2020.05.19-11.09.29:367][526]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.05.19-11.09.29:758][536]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.05.19-11.09.29:759][536]LogUObjectGlobals: Warning: Attempted to FindCachedThumbnailInPackage named 'None' - PackageName: None InPackageFileName: None
+[2020.05.19-11.09.29:792][537]LogSlate: Warning: WidgetMapToItem length (8) does not match ItemsWithGeneratedWidgets length (9). This is often because the same item is in the list more than once in SAssetListView [SAssetView.cpp(1807)]. Diagnostics follow.
+[2020.05.19-11.09.29:792][537]LogSlate: Warning: 
+[2020.05.19-11.09.29:793][537]LogSlate: Warning: ItemToWidgetMap :
+[2020.05.19-11.09.29:793][537]LogSlate: Warning: 0x1e784e80 -> 0x70d38f18 @ STableRow<TSharedPtr<FAssetViewItem>> [SAssetView.cpp(3851)]
+[2020.05.19-11.09.29:793][537]LogSlate: Warning: 0x1aae1480 -> 0x65fb2b18 @ STableRow<TSharedPtr<FAssetViewItem>> [SAssetView.cpp(3851)]
+[2020.05.19-11.09.29:793][537]LogSlate: Warning: 0x1e785a80 -> 0x1a50f218 @ STableRow<TSharedPtr<FAssetViewItem>> [SAssetView.cpp(3851)]
+[2020.05.19-11.09.29:793][537]LogSlate: Warning: 0x1e787580 -> 0x1f227218 @ STableRow<TSharedPtr<FAssetViewItem>> [SAssetView.cpp(3851)]
+[2020.05.19-11.09.29:793][537]LogSlate: Warning: 0x1e785c00 -> 0x4ba6f218 @ STableRow<TSharedPtr<FAssetViewItem>> [SAssetView.cpp(3851)]
+[2020.05.19-11.09.29:793][537]LogSlate: Warning: 0x1e786080 -> 0x10f77918 @ STableRow<TSharedPtr<FAssetViewItem>> [SAssetView.cpp(3851)]
+[2020.05.19-11.09.29:793][537]LogSlate: Warning: 0x1e784880 -> 0x46290818 @ STableRow<TSharedPtr<FAssetViewItem>> [SAssetView.cpp(3851)]
+[2020.05.19-11.09.29:793][537]LogSlate: Warning: 0x1e787880 -> 0x117f9d18 @ STableRow<TSharedPtr<FAssetViewItem>> [SAssetView.cpp(3851)]
+[2020.05.19-11.09.29:793][537]LogSlate: Warning: 
+[2020.05.19-11.09.29:793][537]LogSlate: Warning: WidgetMapToItem:
+[2020.05.19-11.09.29:793][537]LogSlate: Warning: 0x70d38f10 -> 0x1e784e80
+[2020.05.19-11.09.29:793][537]LogSlate: Warning: 0x65fb2b10 -> 0x1aae1480
+[2020.05.19-11.09.29:793][537]LogSlate: Warning: 0x1a50f210 -> 0x1e785a80
+[2020.05.19-11.09.29:793][537]LogSlate: Warning: 0x1f227210 -> 0x1e787580
+[2020.05.19-11.09.29:793][537]LogSlate: Warning: 0x4ba6f210 -> 0x1e785c00
+[2020.05.19-11.09.29:793][537]LogSlate: Warning: 0x10f77910 -> 0x1e786080
+[2020.05.19-11.09.29:793][537]LogSlate: Warning: 0x46290810 -> 0x1e784880
+[2020.05.19-11.09.29:793][537]LogSlate: Warning: 0x117f9d10 -> 0x1e787880
+[2020.05.19-11.09.29:793][537]LogSlate: Warning: 
+[2020.05.19-11.09.29:793][537]LogSlate: Warning: ItemsWithGeneratedWidgets:
+[2020.05.19-11.09.29:793][537]LogSlate: Warning: [0] 0x1e785a80
+[2020.05.19-11.09.29:794][537]LogSlate: Warning: [1] 0x1e785a80
+[2020.05.19-11.09.29:794][537]LogSlate: Warning: [2] 0x1aae1480
+[2020.05.19-11.09.29:794][537]LogSlate: Warning: [3] 0x1e784e80
+[2020.05.19-11.09.29:794][537]LogSlate: Warning: [4] 0x1e786080
+[2020.05.19-11.09.29:794][537]LogSlate: Warning: [5] 0x1e784880
+[2020.05.19-11.09.29:794][537]LogSlate: Warning: [6] 0x1e787880
+[2020.05.19-11.09.29:794][537]LogSlate: Warning: [7] 0x1e785c00
+[2020.05.19-11.09.29:794][537]LogSlate: Warning: [8] 0x1e787580
+[2020.05.19-11.09.29:967][537]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.19-11.09.29:967][537]LogWindows: Windows GetLastError: La operación se completó correctamente. (0)

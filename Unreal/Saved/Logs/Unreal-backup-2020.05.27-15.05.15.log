@@ -1,0 +1,1073 @@
+﻿Log file open, 05/27/20 16:14:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Unreal
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.128068
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Engine.ini]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Engine.ini]
+[2020.05.27-14.14.14:146][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Engine.ini]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Engine.ini]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.27-14.14.14:146][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Engine.ini]
+[2020.05.27-14.14.14:146][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Engine.ini]
+[2020.05.27-14.14.14:148][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-14.14.14:148][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.27-14.14.14:148][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.27-14.14.14:148][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-14.14.14:148][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.27-14.14.14:148][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-14.14.14:148][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.27-14.14.14:148][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.27-14.14.14:148][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.27-14.14.14:149][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-14.14.14:149][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.27-14.14.14:150][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.27-14.14.14:150][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-14.14.14:150][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.27-14.14.14:150][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.27-14.14.14:150][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.27-14.14.14:150][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.27-14.14.14:150][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.27-14.14.14:152][  0]LogHAL: Display: Platform has ~ 16 GB [17053032448 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.27-14.14.14:152][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.27-14.14.14:152][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-14.14.14:152][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.27-14.14.14:152][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.27-14.14.14:152][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-14.14.14:152][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.27-14.14.14:152][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-14.14.14:152][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.27-14.14.14:152][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.27-14.14.14:152][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.27-14.14.14:152][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.27-14.14.14:152][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.27-14.14.14:152][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.27-14.14.14:152][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.27-14.14.14:152][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.27-14.14.14:152][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.27-14.14.14:152][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.27-14.14.14:152][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.27-14.14.14:152][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.27-14.14.14:152][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.27-14.14.14:152][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.27-14.14.14:152][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.27-14.14.14:152][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.27-14.14.14:152][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.27-14.14.14:152][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.27-14.14.14:153][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.27-14.14.14:346][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.27-14.14.14:346][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.27-14.14.14:346][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Config/Windows/Engine.ini]
+[2020.05.27-14.14.14:346][  0]LogInit: Computer: DESKTOP-JT8CS7I
+[2020.05.27-14.14.14:346][  0]LogInit: User: Angels
+[2020.05.27-14.14.14:346][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.05.27-14.14.14:346][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.27-14.14.14:346][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.05.27-14.14.14:346][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.27-14.14.14:346][  0]LogMemory: Process Physical Memory: 109.78 MB used, 109.78 MB peak
+[2020.05.27-14.14.14:346][  0]LogMemory: Process Virtual Memory: 101.48 MB used, 101.48 MB peak
+[2020.05.27-14.14.14:346][  0]LogMemory: Physical Memory: 7375.00 MB used,  8888.04 MB free, 16263.04 MB total
+[2020.05.27-14.14.14:346][  0]LogMemory: Virtual Memory: 5159.85 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.05.27-14.14.14:349][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.27-14.14.14:528][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.05.27-14.14.14:528][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.05.27-14.14.14:660][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.27-14.14.14:690][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.27-14.14.14:690][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.27-14.14.15:207][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.27-14.14.15:207][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.27-14.14.15:207][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.27-14.14.15:208][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.27-14.14.16:435][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2020.05.27-14.14.16:435][  0]LogD3D11RHI:       6052/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.27-14.14.16:465][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.05.27-14.14.16:465][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.05.27-14.14.16:633][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.27-14.14.16:633][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.27-14.14.16:633][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.27-14.14.16:663][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.27-14.14.16:663][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.27-14.14.16:663][  0]LogWindows: EnumDisplayDevices:
+[2020.05.27-14.14.16:663][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.05.27-14.14.16:664][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.27-14.14.16:664][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.27-14.14.16:664][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.05.27-14.14.16:664][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.05.27-14.14.16:665][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.05.27-14.14.16:665][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.05.27-14.14.16:665][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.05.27-14.14.16:665][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2020.05.27-14.14.16:665][  0]LogD3D11RHI:   Driver Version: 445.75 (internal:26.21.14.4575, unified:445.75)
+[2020.05.27-14.14.16:665][  0]LogD3D11RHI:      Driver Date: 3-17-2020
+[2020.05.27-14.14.16:665][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.05.27-14.14.16:782][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.05.27-14.14.16:783][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.27-14.14.16:794][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.27-14.14.17:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.27-14.14.17:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.27-14.14.17:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.27-14.14.17:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.05.27-14.14.17:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.27-14.14.17:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.05.27-14.14.17:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.05.27-14.14.17:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.27-14.14.17:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.05.27-14.14.17:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.27-14.14.17:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.27-14.14.17:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.05.27-14.14.17:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.27-14.14.17:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.27-14.14.17:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.27-14.14.17:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.27-14.14.17:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.27-14.14.17:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.27-14.14.17:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.27-14.14.17:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.27-14.14.17:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.27-14.14.17:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.27-14.14.17:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.27-14.14.17:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.27-14.14.17:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.27-14.14.17:806][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.27-14.14.17:812][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.27-14.14.17:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.27-14.14.17:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.27-14.14.17:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.27-14.14.17:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.27-14.14.17:855][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.27-14.14.17:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.27-14.14.17:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.27-14.14.17:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.27-14.14.17:877][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.27-14.14.17:883][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.27-14.14.17:913][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Intermediate/Shaders/WorkingDirectory/13112/).
+[2020.05.27-14.14.17:913][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Angels/AppData/Local/Temp/UnrealShaderWorkingDir/49B98F124FB3528F8A33E095539A5E99/'.
+[2020.05.27-14.14.17:924][  0]LogXGEController: Cleaning working directory: C:/Users/Angels/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.27-14.14.17:924][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.27-14.14.17:924][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.27-14.14.17:924][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.27-14.14.19:114][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.27-14.14.20:081][  0]LogDerivedDataCache: Loaded boot cache 0.97s 78MB C:/Users/Angels/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.27-14.14.20:081][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Angels/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.27-14.14.20:081][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.27-14.14.20:081][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.27-14.14.20:081][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.27-14.14.20:081][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.27-14.14.20:090][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.27-14.14.20:090][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.27-14.14.20:090][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.27-14.14.20:091][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Angels/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.27-14.14.20:091][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.27-14.14.20:091][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.27-14.14.20:116][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.27-14.14.20:118][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.27-14.14.20:120][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.27-14.14.23:005][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2020.05.27-14.14.23:252][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.27-14.14.23:590][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.27-14.14.23:590][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.27-14.14.23:590][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.27-14.14.23:590][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.27-14.14.23:590][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.27-14.14.23:603][  0]LogNetVersion: Unreal 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3342930737)
+[2020.05.27-14.15.04:691][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.026117 seconds
+[2020.05.27-14.15.04:697][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.05.27-14.15.04:697][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.05.27-14.15.04:697][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.27-14.15.05:815][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.27-14.15.05:818][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.27-14.15.05:909][  0]SourceControl: Source control is disabled
+[2020.05.27-14.15.05:909][  0]SourceControl: Source control is disabled
+[2020.05.27-14.15.06:006][  0]SourceControl: Source control is disabled
+[2020.05.27-14.15.06:008][  0]SourceControl: Source control is disabled
+[2020.05.27-14.15.06:009][  0]SourceControl: Source control is disabled
+[2020.05.27-14.15.06:694][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.27-14.15.06:706][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.27-14.15.06:706][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.27-14.15.06:792][  0]LogOcInput: OculusInput pre-init called
+[2020.05.27-14.15.06:799][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.05.27-14.15.06:799][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.05.27-14.15.06:961][  0]LogEngine: Initializing Engine...
+[2020.05.27-14.15.06:962][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.27-14.15.06:962][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.27-14.15.07:276][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.27-14.15.07:392][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.27-14.15.07:415][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.27-14.15.07:415][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.27-14.15.07:415][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.27-14.15.07:415][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.27-14.15.07:415][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.27-14.15.07:415][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.27-14.15.07:415][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.27-14.15.07:415][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.27-14.15.07:415][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.27-14.15.07:415][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.27-14.15.07:461][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.27-14.15.07:461][  0]LogAudioMixer: Display: Name: Altavoces (Logitech G430 Gaming Headset)
+[2020.05.27-14.15.07:461][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.27-14.15.07:461][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.27-14.15.07:461][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.27-14.15.07:461][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.27-14.15.07:461][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.27-14.15.07:461][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.27-14.15.07:461][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.27-14.15.07:619][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Logitech G430 Gaming Headset)
+[2020.05.27-14.15.07:758][  0]LogInit: FAudioDevice initialized.
+[2020.05.27-14.15.07:834][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.27-14.15.09:233][  0]LogDerivedDataCache: Saved boot cache 1.40s 78MB C:/Users/Angels/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.27-14.15.09:233][  0]LogInit: Texture streaming: Enabled
+[2020.05.27-14.15.09:265][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.27-14.15.09:265][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.27-14.15.09:266][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.27-14.15.09:304][  0]LogInit: Transaction tracking system initialized
+[2020.05.27-14.15.09:356][  0]BlueprintLog: New page: Editor Load
+[2020.05.27-14.15.09:863][  0]LocalizationService: Localization service is disabled
+[2020.05.27-14.15.10:206][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Content/' took 0.01s
+[2020.05.27-14.15.10:206][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.27-14.15.10:206][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.27-14.15.23:192][  0]SourceControl: Source control is disabled
+[2020.05.27-14.15.23:192][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.27-14.15.23:192][  0]LightingResults: New page: Lighting Build
+[2020.05.27-14.15.23:195][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.27-14.15.23:195][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-14.15.23:195][  0]MapCheck: New page: Map Check
+[2020.05.27-14.15.23:195][  0]LightingResults: New page: Lighting Build
+[2020.05.27-14.15.23:249][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.05.27-14.15.28:788][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.27-14.15.32:410][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.27-14.15.32:479][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.05.27-14.15.32:480][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.27-14.15.32:480][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.13ms to complete.
+[2020.05.27-14.15.32:480][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 9.289
+[2020.05.27-14.15.32:624][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.27-14.15.32:630][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.27-14.15.32:636][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.27-14.15.32:641][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.27-14.15.32:682][  0]LogCollectionManager: Loaded 0 collections in 0.001784 seconds
+[2020.05.27-14.15.32:692][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Collections/' took 0.00s
+[2020.05.27-14.15.32:692][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Content/Developers/Angels/Collections/' took 0.00s
+[2020.05.27-14.15.32:692][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Content/Collections/' took 0.00s
+[2020.05.27-14.15.32:692][  0]LogContentBrowser: Native class hierarchy populated in 0.0070 seconds. Added 3017 classes and 720 folders.
+[2020.05.27-14.15.32:694][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.27-14.15.32:775][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.27-14.15.32:837][  0]LogSlate: Took 0.000765 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.27-14.15.32:840][  0]LogSlate: Took 0.000497 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.27-14.15.32:845][  0]LogSlate: Took 0.000680 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.27-14.15.33:022][  0]LogRenderer: Reallocating scene render targets to support 1008x560 Format 10 NumSamples 1 (Frame:1).
+[2020.05.27-14.15.33:146][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.27-14.15.33:146][  0]LogLoad: (Engine Initialization) Total time: 81.40 seconds
+[2020.05.27-14.15.33:146][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.27-14.15.33:217][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.27-14.15.33:342][  0]LogSlate: Took 0.031616 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.27-14.15.36:056][ 37]LogAssetRegistry: Asset discovery search completed in 73.0510 seconds
+[2020.05.27-14.15.36:058][ 37]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2020.05.27-14.20.20:430][433]LogSlate: Took 0.020051 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.27-14.20.20:450][433]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ThirdPersonBP/ThirdPersonCharacter/Blueprints/Girl_AnimBP.Girl_AnimBP
+[2020.05.27-14.20.20:523][433]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.05.27-14.20.20:699][433]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.27-14.20.20:709][433]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.05.27-14.20.21:004][433]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.05.27-14.20.21:779][433]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.05.27-14.20.22:203][433]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.27-14.20.22:310][433]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.05.27-14.20.26:110][575]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.27-14.21.21:277][811]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Angels\Downloads\Jump Up.fbx)
+[2020.05.27-14.21.21:568][811]LogFbx: Loading FBX Scene from C:\Users\Angels\Downloads\Jump Up.fbx
+[2020.05.27-14.21.21:638][811]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.27-14.21.34:346][811]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(0) Hips
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(1) Spine
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(2) Spine1
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(3) Spine2
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(4) Neck
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(5) Head
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(8) LeftArm
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(10) LeftHand
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(23) LeftHandRing1
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(24) LeftHandRing2
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(25) LeftHandRing3
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(26) LeftHandRing4
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(31) RightShoulder
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(32) RightArm
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(33) RightForeArm
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(34) RightHand
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(35) RightHandThumb1
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(36) RightHandThumb2
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(37) RightHandThumb3
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(38) RightHandThumb4
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(39) RightHandIndex1
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(40) RightHandIndex2
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(41) RightHandIndex3
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(42) RightHandIndex4
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(47) RightHandRing1
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(48) RightHandRing2
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(49) RightHandRing3
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(50) RightHandRing4
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(51) RightHandPinky1
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(52) RightHandPinky2
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(53) RightHandPinky3
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(54) RightHandPinky4
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(56) LeftLeg
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(57) LeftFoot
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(61) RightLeg
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(62) RightFoot
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(63) RightToeBase
+[2020.05.27-14.21.34:457][811]LogFbx: SortedLinks :(64) RightToe_End
+[2020.05.27-14.21.34:459][811]LogFbx: Parsing AnimStack mixamo.com
+[2020.05.27-14.21.34:491][811]LogLinker: Failed to load '/Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Jump_Up': Can't find file.
+[2020.05.27-14.21.34:491][811]LogLinker: Failed to load '/Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Jump_Up': Can't find file.
+[2020.05.27-14.21.34:916][811]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Jump_Up.Jump_Up
+[2020.05.27-14.21.34:916][811]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Jump_Up.Jump_Up) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.05.27-14.21.34:979][811]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Angels\Downloads\Rifle Idle.fbx)
+[2020.05.27-14.21.35:018][811]LogFbx: Loading FBX Scene from C:\Users\Angels\Downloads\Rifle Idle.fbx
+[2020.05.27-14.21.35:134][811]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(0) Hips
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(1) Spine
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(2) Spine1
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(3) Spine2
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(4) Neck
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(5) Head
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(8) LeftArm
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(10) LeftHand
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(23) LeftHandRing1
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(24) LeftHandRing2
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(25) LeftHandRing3
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(26) LeftHandRing4
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(31) RightShoulder
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(32) RightArm
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(33) RightForeArm
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(34) RightHand
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(35) RightHandThumb1
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(36) RightHandThumb2
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(37) RightHandThumb3
+[2020.05.27-14.21.35:138][811]LogFbx: SortedLinks :(38) RightHandThumb4
+[2020.05.27-14.21.35:139][811]LogFbx: SortedLinks :(39) RightHandIndex1
+[2020.05.27-14.21.35:139][811]LogFbx: SortedLinks :(40) RightHandIndex2
+[2020.05.27-14.21.35:139][811]LogFbx: SortedLinks :(41) RightHandIndex3
+[2020.05.27-14.21.35:139][811]LogFbx: SortedLinks :(42) RightHandIndex4
+[2020.05.27-14.21.35:139][811]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2020.05.27-14.21.35:139][811]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2020.05.27-14.21.35:139][811]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2020.05.27-14.21.35:139][811]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2020.05.27-14.21.35:139][811]LogFbx: SortedLinks :(47) RightHandRing1
+[2020.05.27-14.21.35:139][811]LogFbx: SortedLinks :(48) RightHandRing2
+[2020.05.27-14.21.35:139][811]LogFbx: SortedLinks :(49) RightHandRing3
+[2020.05.27-14.21.35:139][811]LogFbx: SortedLinks :(50) RightHandRing4
+[2020.05.27-14.21.35:139][811]LogFbx: SortedLinks :(51) RightHandPinky1
+[2020.05.27-14.21.35:139][811]LogFbx: SortedLinks :(52) RightHandPinky2
+[2020.05.27-14.21.35:139][811]LogFbx: SortedLinks :(53) RightHandPinky3
+[2020.05.27-14.21.35:139][811]LogFbx: SortedLinks :(54) RightHandPinky4
+[2020.05.27-14.21.35:139][811]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.05.27-14.21.35:139][811]LogFbx: SortedLinks :(56) LeftLeg
+[2020.05.27-14.21.35:139][811]LogFbx: SortedLinks :(57) LeftFoot
+[2020.05.27-14.21.35:139][811]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.05.27-14.21.35:139][811]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.05.27-14.21.35:139][811]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.05.27-14.21.35:139][811]LogFbx: SortedLinks :(61) RightLeg
+[2020.05.27-14.21.35:139][811]LogFbx: SortedLinks :(62) RightFoot
+[2020.05.27-14.21.35:139][811]LogFbx: SortedLinks :(63) RightToeBase
+[2020.05.27-14.21.35:139][811]LogFbx: SortedLinks :(64) RightToe_End
+[2020.05.27-14.21.35:139][811]LogFbx: Parsing AnimStack mixamo.com
+[2020.05.27-14.21.35:140][811]LogLinker: Failed to load '/Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Rifle_Idle': Can't find file.
+[2020.05.27-14.21.35:140][811]LogLinker: Failed to load '/Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Rifle_Idle': Can't find file.
+[2020.05.27-14.21.36:057][811]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Rifle_Idle.Rifle_Idle
+[2020.05.27-14.21.36:057][811]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Rifle_Idle.Rifle_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.05.27-14.21.36:320][811]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Angels\Downloads\Rifle Run.fbx)
+[2020.05.27-14.21.36:355][811]LogFbx: Loading FBX Scene from C:\Users\Angels\Downloads\Rifle Run.fbx
+[2020.05.27-14.21.36:375][811]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(0) Hips
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(1) Spine
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(2) Spine1
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(3) Spine2
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(4) Neck
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(5) Head
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(8) LeftArm
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(10) LeftHand
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(23) LeftHandRing1
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(24) LeftHandRing2
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(25) LeftHandRing3
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(26) LeftHandRing4
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(31) RightShoulder
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(32) RightArm
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(33) RightForeArm
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(34) RightHand
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(35) RightHandThumb1
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(36) RightHandThumb2
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(37) RightHandThumb3
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(38) RightHandThumb4
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(39) RightHandIndex1
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(40) RightHandIndex2
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(41) RightHandIndex3
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(42) RightHandIndex4
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(47) RightHandRing1
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(48) RightHandRing2
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(49) RightHandRing3
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(50) RightHandRing4
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(51) RightHandPinky1
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(52) RightHandPinky2
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(53) RightHandPinky3
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(54) RightHandPinky4
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(56) LeftLeg
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(57) LeftFoot
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.05.27-14.21.36:378][811]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.05.27-14.21.36:379][811]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.05.27-14.21.36:379][811]LogFbx: SortedLinks :(61) RightLeg
+[2020.05.27-14.21.36:379][811]LogFbx: SortedLinks :(62) RightFoot
+[2020.05.27-14.21.36:379][811]LogFbx: SortedLinks :(63) RightToeBase
+[2020.05.27-14.21.36:379][811]LogFbx: SortedLinks :(64) RightToe_End
+[2020.05.27-14.21.36:379][811]LogFbx: Parsing AnimStack mixamo.com
+[2020.05.27-14.21.36:379][811]LogLinker: Failed to load '/Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Rifle_Run': Can't find file.
+[2020.05.27-14.21.36:379][811]LogLinker: Failed to load '/Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Rifle_Run': Can't find file.
+[2020.05.27-14.21.36:663][811]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Rifle_Run.Rifle_Run
+[2020.05.27-14.21.36:663][811]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Rifle_Run.Rifle_Run) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.05.27-14.21.36:695][811]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Angels\Downloads\Rifle Walk.fbx)
+[2020.05.27-14.21.36:706][811]LogFbx: Loading FBX Scene from C:\Users\Angels\Downloads\Rifle Walk.fbx
+[2020.05.27-14.21.36:725][811]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.27-14.21.36:728][811]LogFbx: SortedLinks :(0) Hips
+[2020.05.27-14.21.36:728][811]LogFbx: SortedLinks :(1) Spine
+[2020.05.27-14.21.36:728][811]LogFbx: SortedLinks :(2) Spine1
+[2020.05.27-14.21.36:728][811]LogFbx: SortedLinks :(3) Spine2
+[2020.05.27-14.21.36:728][811]LogFbx: SortedLinks :(4) Neck
+[2020.05.27-14.21.36:728][811]LogFbx: SortedLinks :(5) Head
+[2020.05.27-14.21.36:728][811]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.05.27-14.21.36:728][811]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.05.27-14.21.36:728][811]LogFbx: SortedLinks :(8) LeftArm
+[2020.05.27-14.21.36:728][811]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.05.27-14.21.36:728][811]LogFbx: SortedLinks :(10) LeftHand
+[2020.05.27-14.21.36:728][811]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2020.05.27-14.21.36:728][811]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(23) LeftHandRing1
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(24) LeftHandRing2
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(25) LeftHandRing3
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(26) LeftHandRing4
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(31) RightShoulder
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(32) RightArm
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(33) RightForeArm
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(34) RightHand
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(35) RightHandThumb1
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(36) RightHandThumb2
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(37) RightHandThumb3
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(38) RightHandThumb4
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(39) RightHandIndex1
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(40) RightHandIndex2
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(41) RightHandIndex3
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(42) RightHandIndex4
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(47) RightHandRing1
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(48) RightHandRing2
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(49) RightHandRing3
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(50) RightHandRing4
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(51) RightHandPinky1
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(52) RightHandPinky2
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(53) RightHandPinky3
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(54) RightHandPinky4
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(56) LeftLeg
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(57) LeftFoot
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(61) RightLeg
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(62) RightFoot
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(63) RightToeBase
+[2020.05.27-14.21.36:729][811]LogFbx: SortedLinks :(64) RightToe_End
+[2020.05.27-14.21.36:729][811]LogFbx: Parsing AnimStack mixamo.com
+[2020.05.27-14.21.36:730][811]LogLinker: Failed to load '/Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Rifle_Walk': Can't find file.
+[2020.05.27-14.21.36:730][811]LogLinker: Failed to load '/Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Rifle_Walk': Can't find file.
+[2020.05.27-14.21.36:917][811]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Rifle_Walk.Rifle_Walk
+[2020.05.27-14.21.36:917][811]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Rifle_Walk.Rifle_Walk) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.05.27-14.21.36:987][811]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Angels\Downloads\Jump Down.fbx)
+[2020.05.27-14.21.37:002][811]LogFbx: Loading FBX Scene from C:\Users\Angels\Downloads\Jump Down.fbx
+[2020.05.27-14.21.37:020][811]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.27-14.21.37:023][811]LogFbx: SortedLinks :(0) Hips
+[2020.05.27-14.21.37:023][811]LogFbx: SortedLinks :(1) Spine
+[2020.05.27-14.21.37:023][811]LogFbx: SortedLinks :(2) Spine1
+[2020.05.27-14.21.37:023][811]LogFbx: SortedLinks :(3) Spine2
+[2020.05.27-14.21.37:023][811]LogFbx: SortedLinks :(4) Neck
+[2020.05.27-14.21.37:023][811]LogFbx: SortedLinks :(5) Head
+[2020.05.27-14.21.37:023][811]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(8) LeftArm
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(10) LeftHand
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(23) LeftHandRing1
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(24) LeftHandRing2
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(25) LeftHandRing3
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(26) LeftHandRing4
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(31) RightShoulder
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(32) RightArm
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(33) RightForeArm
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(34) RightHand
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(35) RightHandThumb1
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(36) RightHandThumb2
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(37) RightHandThumb3
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(38) RightHandThumb4
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(39) RightHandIndex1
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(40) RightHandIndex2
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(41) RightHandIndex3
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(42) RightHandIndex4
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(47) RightHandRing1
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(48) RightHandRing2
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(49) RightHandRing3
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(50) RightHandRing4
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(51) RightHandPinky1
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(52) RightHandPinky2
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(53) RightHandPinky3
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(54) RightHandPinky4
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(56) LeftLeg
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(57) LeftFoot
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(61) RightLeg
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(62) RightFoot
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(63) RightToeBase
+[2020.05.27-14.21.37:024][811]LogFbx: SortedLinks :(64) RightToe_End
+[2020.05.27-14.21.37:025][811]LogFbx: Parsing AnimStack mixamo.com
+[2020.05.27-14.21.37:025][811]LogLinker: Failed to load '/Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Jump_Down': Can't find file.
+[2020.05.27-14.21.37:025][811]LogLinker: Failed to load '/Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Jump_Down': Can't find file.
+[2020.05.27-14.21.39:734][811]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Jump_Down.Jump_Down
+[2020.05.27-14.21.39:734][811]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Jump_Down.Jump_Down) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.05.27-14.21.39:800][811]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Angels\Downloads\Jump Loop.fbx)
+[2020.05.27-14.21.39:833][811]LogFbx: Loading FBX Scene from C:\Users\Angels\Downloads\Jump Loop.fbx
+[2020.05.27-14.21.39:853][811]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(0) Hips
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(1) Spine
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(2) Spine1
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(3) Spine2
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(4) Neck
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(5) Head
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(8) LeftArm
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(10) LeftHand
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(23) LeftHandRing1
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(24) LeftHandRing2
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(25) LeftHandRing3
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(26) LeftHandRing4
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(31) RightShoulder
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(32) RightArm
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(33) RightForeArm
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(34) RightHand
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(35) RightHandThumb1
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(36) RightHandThumb2
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(37) RightHandThumb3
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(38) RightHandThumb4
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(39) RightHandIndex1
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(40) RightHandIndex2
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(41) RightHandIndex3
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(42) RightHandIndex4
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(47) RightHandRing1
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(48) RightHandRing2
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(49) RightHandRing3
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(50) RightHandRing4
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(51) RightHandPinky1
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(52) RightHandPinky2
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(53) RightHandPinky3
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(54) RightHandPinky4
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(56) LeftLeg
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(57) LeftFoot
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(61) RightLeg
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(62) RightFoot
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(63) RightToeBase
+[2020.05.27-14.21.39:856][811]LogFbx: SortedLinks :(64) RightToe_End
+[2020.05.27-14.21.39:857][811]LogFbx: Parsing AnimStack mixamo.com
+[2020.05.27-14.21.39:858][811]LogLinker: Failed to load '/Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Jump_Loop': Can't find file.
+[2020.05.27-14.21.39:858][811]LogLinker: Failed to load '/Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Jump_Loop': Can't find file.
+[2020.05.27-14.21.40:169][811]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Jump_Loop.Jump_Loop
+[2020.05.27-14.21.40:169][811]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Jump_Loop.Jump_Loop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.05.27-14.22.38:116][234]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.05.27-14.22.38:274][234]LogSavePackage: Moving '../../../../../../Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Jump_Up15D7AEBF471BDBEEC31EAA9DB9A1DE97.tmp' to '../../../../../../Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Content/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Jump_Up.uasset'
+[2020.05.27-14.22.38:312][234]LogSavePackage: Moving '../../../../../../Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Rifle_Idle72D331884B1BB6E3D5F90AA5DE871C0A.tmp' to '../../../../../../Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Content/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Rifle_Idle.uasset'
+[2020.05.27-14.22.38:378][234]LogSavePackage: Moving '../../../../../../Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Rifle_RunA1A1DC05431366013E85ACB2A2622771.tmp' to '../../../../../../Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Content/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Rifle_Run.uasset'
+[2020.05.27-14.22.38:417][234]LogSavePackage: Moving '../../../../../../Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Rifle_Walk39F066874A5CF118AF04039D0B709110.tmp' to '../../../../../../Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Content/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Rifle_Walk.uasset'
+[2020.05.27-14.22.38:456][234]LogSavePackage: Moving '../../../../../../Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Jump_Down2B59EAD1450337FAA950CB9B26011CF8.tmp' to '../../../../../../Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Content/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Jump_Down.uasset'
+[2020.05.27-14.22.38:497][234]LogSavePackage: Moving '../../../../../../Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Saved/Jump_Loop2110868E4CDD74FF169E46A1CE29C8F5.tmp' to '../../../../../../Users/Angels/Desktop/Unreal_Trabajo_FInal/Unreal/Content/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Jump_Loop.uasset'
+[2020.05.27-14.22.38:559][234]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.27-14.22.38:559][234]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Jump_Up.Jump_Up
+[2020.05.27-14.22.38:559][234]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Rifle_Idle.Rifle_Idle
+[2020.05.27-14.22.38:559][234]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Rifle_Run.Rifle_Run
+[2020.05.27-14.22.38:559][234]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Rifle_Walk.Rifle_Walk
+[2020.05.27-14.22.38:559][234]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Jump_Down.Jump_Down
+[2020.05.27-14.22.38:559][234]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/ThirdPersonCharacter/Animaciones/Jump_Loop.Jump_Loop
